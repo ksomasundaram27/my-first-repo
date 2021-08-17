@@ -1,0 +1,23 @@
+commit 653a8d429efed4d2291cef160be35907b15793fc
+Author: ksomasundaram27 <krithigasomu@gmail.com>
+Date:   Tue Aug 17 12:37:55 2021 -0400
+
+    added gitignore
+
+commit 9d8fcc338acff6d02ea49c6a485219ee1674a891
+Author: ksomasundaram27 <krithigasomu@gmail.com>
+Date:   Tue Aug 17 12:34:11 2021 -0400
+
+    added gitignore
+
+commit 4cf0047b6adc518a8733cf75dd6e7e67cf2bde58
+Author: ksomasundaram27 <krithigasomu@gmail.com>
+Date:   Mon Aug 16 17:50:51 2021 -0400
+
+    added two files
+
+commit 905671c7cf718beb3ac48cd18b73b9402bef8434
+Author: ksomasundaram27 <krithigasomu@gmail.com>
+Date:   Mon Aug 16 17:45:39 2021 -0400
+
+    added readme.txt
